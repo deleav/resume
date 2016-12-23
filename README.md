@@ -8,7 +8,7 @@
   
 ### 經歷
   * 2015-11 ~ 2016-8 
-    * [EXMA Square](http://exma-square.co/) Backend Engineer ( Node.js、Sails.js )
+    * [EXMA Square](http://exma-square.co/)
     
 ### Link
   * [github](https://github.com/deleav)
