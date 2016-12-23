@@ -4,7 +4,8 @@
   
 ### 技能
   * 熟悉 HTML、CSS、jQuery、Sass、Sails.js、git、api 串接，以及最近正在學習及使用的 React.js。
-  * 前端框架有碰過 Bootstrap、Foundation
+  * 實作 React.js 時摸過 Webpack、Redux、React Router
+  * 前端框架有使用過 Bootstrap、Foundation
   
 ### 經歷
   * 2015-11 ~ 2016-8
