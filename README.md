@@ -7,9 +7,10 @@
   * 前端框架有碰過 Bootstrap、Foundation
   
 ### 經歷
-  * 2015-11 ~ 2016-8 
-    * [EXMA Square](http://exma-square.co/)
-    
+  * 2015-11 ~ 2016-8
+    * [EXMA Square](http://exma-square.co/) 
+    * Backend Engineer ( Node.js、Sails.js )
+     
 ### Link
   * [github](https://github.com/deleav)
   
