@@ -1,6 +1,6 @@
 # Resume
 ### 簡介
-偶然接觸網頁，便不小心一頭栽入 JavaScript 的世界，最初是使用 Node.js 做 RESTful api ，但在參加各個社群活動與實習的過程中，漸漸地越來越喜歡前端，目前正積極學習 React.js，也有在關注 Vue.js 的狀態。喜歡參加社群活動，也喜愛學習新技術，希望未來能夠持續學習與進步，與團隊一同成長，並用最有趣的技術打造最酷的網頁。
+偶然接觸網頁，便不小心一頭栽入 JavaScript 的世界，最初是使用 Node.js 做 RESTful api ，但在參加各個社群活動與實習的過程中，漸漸地越來越喜歡前端，目前正積極學習 React.js，也有在關注 Vue.js 的狀態。喜歡參加社群活動，也喜愛學習新技術，希望未來能夠持續學習與進步，與團隊一同成長，並用最適合的技術打造最酷的網頁。
 
 ### 技能
   * 熟悉 HTML、CSS、jQuery、Sass、Node.js、Sails.js、MySQL、Git、RESTful api，以及最近正在學習及使用的 React.js。
